@@ -15,6 +15,22 @@
   </kbd>
 </p>
 
+- 👋 Hi, I’m Anand Sarma
+- 👀 I’m interested in Graphic Design, 3D Art, UI/UX Design 
+- 🌱 I’m currently working with Dr.Pallemsetti Innovations as a Project Manager
+- 💞️ I’m looking to collaborate and work on any Design related Job
+- 📫 How to reach me: 
+*Discord* - Ray.#3369
+*Behance* - https://www.behance.net/anandsarmaa
+*Linkdn*  - https://www.linkedin.com/in/anand-sarma/
+*Email*   - aanandsarma198@gmail.com
+
+<!---
+devsage16/devsage16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+
    
 <!-- Outer collapsible -->  
 <details>
@@ -56,9 +72,9 @@ When I'm not at the keyboard, I am a College Level Basketball Player
 
 | **Category** | **Technologies** |
 | - | - |
-**Frontend** | [![Vue.js](https://img.shields.io/static/v1?label=&message=Vue.js&color=4FC08D&logo=vuedotjs&logoColor=FFFFFF)](https://vuejs.org/) [![Svelte](https://img.shields.io/static/v1?label=&message=Svelte&color=FF3E00&logo=svelte&logoColor=FFFFFF)](https://svelte.dev/) [![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF)](https://reactjs.org/) [![Astro](https://img.shields.io/static/v1?label=&message=Astro&color=a545f0&logo=astro&logoColor=FFFFFF)](https://astro.build/)<br>[![Angular](https://img.shields.io/static/v1?label=&message=Angular&color=DD0031&logo=angular&logoColor=FFFFFF)](https://angularjs.org/) [![D3.js](https://img.shields.io/static/v1?label=&message=D3.js&color=F9A03C&logo=d3dotjs&logoColor=FFFFFF)](https://d3js.org/)
+**Frontend** | [![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF)](https://reactjs.org/) 
 **Core** |  [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=FFFFFF)](https://www.javascript.com/)  [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/)<br>[![Java](https://img.shields.io/static/v1?label=&message=Java&color=007396&logo=java&logoColor=FFFFFF)](https://www.java.com/)  [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=nodedotjs&logoColor=FFFFFF)](https://nodejs.org/)
-**Mobile** | [![Flutter](https://img.shields.io/static/v1?label=&message=Flutter&color=02569B&logo=flutter&logoColor=FFFFFF)](https://flutter.dev/) [![Android](https://img.shields.io/static/v1?label=&message=Android&color=3DDC84&logo=android&logoColor=FFFFFF)](https://developer.android.com/) [![Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&color=7F52FF&logo=kotlin&logoColor=FFFFFF)](https://kotlinlang.org/) [![Swift](https://img.shields.io/static/v1?label=&message=Swift&color=F05138&logo=swift&logoColor=FFFFFF)](https://www.swift.org/)
+**Mobile** | [![Flutter](https://img.shields.io/static/v1?label=&message=Flutter&color=02569B&logo=flutter&logoColor=FFFFFF)](https://flutter.dev/) [![Android](https://img.shields.io/static/v1?label=&message=Android&color=3DDC84&logo=android&logoColor=FFFFFF)](https://developer.android.com/)
 **Editors** |  [![VS Code](https://img.shields.io/static/v1?label=&message=VS%20Code&color=9013FE&logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/)
       
 
@@ -69,51 +85,7 @@ When I'm not at the keyboard, I am a College Level Basketball Player
   
 
 
-<!-- Metrics -->
-<details>
-  <summary><b>📊 Metrics</b></summary>
-    <p>
 
-<a href="https://github.com/Lissy93/Lissy93/blob/master/METRICS.md">
-   <img  width="400" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/summary.svg" alt="General Stats">
-   <img  width="400" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/habits.svg" alt="Coding Habits">
-</a>
-<br /><br /><br />
-       
-
-
-**[➡️ More Metrics](/METRICS.md)**
-
-</p>
-</details>
-
-
-<!-- Recent Activity -->
-<details>
-  <summary><b>⚡ Recent Activity</b></summary>
-    <p>
-            
-<a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#72](https://github.com/Lissy93/web-check/pull/72) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-2. 🗣 Commented on [#87](https://github.com/Lissy93/web-check/issues/87) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-3. ❌ Closed PR [#87](https://github.com/Lissy93/web-check/pull/87) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-4. 🗣 Commented on [#1162](https://github.com/Lissy93/dashy/issues/1162) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-5. 🗣 Commented on [#1443](https://github.com/Lissy93/dashy/issues/1443) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. 🗣 Commented on [#86](https://github.com/Lissy93/web-check/issues/86) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-7. 🗣 Commented on [#84](https://github.com/Lissy93/web-check/issues/84) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-8. 🔒 Closed issue [#84](https://github.com/Lissy93/web-check/issues/84) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-9. 🎉 Merged PR [#74](https://github.com/Lissy93/web-check/pull/74) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-10. 🎉 Merged PR [#85](https://github.com/Lissy93/web-check/pull/85) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-<!--END_SECTION:activity-->
-
-➡️  **[More Activity](/RECENT-ACTIVITY.md)**
-
-----
-
-</p>
-</details>
 
 <!-- Snek -->   
 <p align="center">
