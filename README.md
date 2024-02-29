@@ -10,7 +10,7 @@
 <p align="center">
    <kbd>
 
-  <a href="https://www.linkedin.com/in/anand-sarma/" title="LinkedIn - Anand Sarma "><img src="https://img.shields.io/badge/-Alicia_Sykes-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anand-sarma/" title="LinkedIn - Anand Sarma ">
   
   </kbd>
 </p>
