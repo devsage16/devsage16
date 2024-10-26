@@ -16,9 +16,8 @@
 </p>
 
 - 👋 Hi, I’m Anand Sarma
-- 👀 I’m interested in Graphic Design, 3D Art, UI/UX Design 
-- 🌱 I’m currently working with Dr.Pallemsetti Innovations as a Project Manager
-- 💞️ I’m looking to collaborate and work on any Design related Job
+- 👀 I'm a Software Engineer, UI/UX Designer, 3D Artist, Graphic Designer
+- 🌱 I’m currently working with Spotmies LLP
 - 📫 How to reach me: 
 *Discord* - Ray.#3369
 *Behance* - https://www.behance.net/anandsarmaa
