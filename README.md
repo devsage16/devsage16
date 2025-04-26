@@ -17,7 +17,7 @@
 
 - 👋 Hi, I’m Anand Sarma
 - 👀 I'm a Software Engineer, UI/UX Designer, 3D Artist, Graphic Designer
-- 🌱 I’m currently working with Spotmies LLP
+- 🌱 I’m currently working with Geo Climate Risk Solutions Pvt. Ltd.
 - 📫 How to reach me: 
 *Discord* - Ray.#3369
 *Behance* - https://www.behance.net/anandsarmaa
@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 
 I am software engineer based in Visakhapatnam, INDIA. And I love Graphic Designing and 3D Art
 I started my journey as a conceptual 3D Artist working on different Artworks, slowly drifting into the industrial world
-and learning about Product Design and UI/UX Designing.
+and learning about Product Design, Software Development and UI/UX Designing.
 
 I am also a Music Artist and a Sound Designer  
 
