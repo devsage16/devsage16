@@ -91,7 +91,7 @@ When I'm not at the keyboard, I am a College Level Basketball Player
 
 </details>
 
-<p align="center"><a href="https://010000010110110001101001011000110110100101100001.com/"><sup><sub>010000010110110001101001011000110110100101100001.com</sub></sup></a></p>
+
 
 <!--
 
