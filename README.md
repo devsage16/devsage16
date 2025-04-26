@@ -2,9 +2,7 @@
 <h1 align="center" title="...and I'm happy to see you here :)">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Anand</h1>
 
 <!-- Contact and keys -->
-<p align="center">
-<center><a href="aanandsarma198@gmail.com" title="Email Address"><code>My EMAIL </code></a></center>
-</p>
+
 
 <!-- Socials -->
 <p align="center">
